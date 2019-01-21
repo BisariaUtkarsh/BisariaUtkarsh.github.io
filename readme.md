@@ -1,3 +1,3 @@
 # Built With <3
 
-* [Portfolio](https://github.com/BisariaUtkarsh) 
+* [Portfolio](https://BisariaUtkarsh.github.io) 
